@@ -2,7 +2,7 @@ Researchers aim to obtain conclusive and reliable results in their studies. To a
 
 Following the examples showing how to apply this function, I have also included to charts:
 
-**1. Effects of changing sample size requirement with increasing difference between groups that are being compared.**
+**1. Effects of changing sample size as the difference between groups increases.**
 
 **2. Effects of changing sample size requirement as variance increases.**
 
