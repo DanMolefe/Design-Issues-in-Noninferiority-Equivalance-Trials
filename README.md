@@ -4,6 +4,6 @@ Following the examples showing how to apply this function, I have also included 
 
 **1. Effects of changing sample size as the difference between groups increases.**
 
-**2. Effects of changing sample size requirement as variance increases.**
+**2. Effects of changing sample size as variance increases.**
 
 Return to main page (https://github.com/DanMolefe)
